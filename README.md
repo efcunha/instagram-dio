@@ -14,9 +14,18 @@ Recriar a interface de login do Instagram com CSS e HTML - utilizando Flexbox!
 # Melhorias implementadas
 - Arredondar a foto do perfil
 
-### Os requisitos são:
+## :seedling: Requisitos Mínimos
+
+Navegador Web
+## :rocket: Tecnologias Utilizadas 
 
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+# Resultado do projeto:
+
+<p align="center">
+  <img src="https://github.com/efcunha/instagram-dio/blob/main/assets/instagram-efcunha.png" width="300" heigth="300">
+</p>
 
 ## 🚀 Let's code! 🚀
