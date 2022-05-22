@@ -11,6 +11,9 @@ Este projeto foi proposto pela Digital Innovation One - Link do código original
 # Descrição
 Recriar a interface de login do Instagram com CSS, HTML e JavaScript - utilizando Flexbox!
 
+# Editor de codigo utilizado
+[Visual Studio Code](https://code.visualstudio.com/)
+
 # Melhorias implementadas
 - Arredondar a foto do perfil
 - Javascript, com imagens dinâmicas como no site do Instagram
@@ -22,7 +25,7 @@ Navegador Web
 
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [JavaScript]https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## 🚀 Let's code! 🚀
 
