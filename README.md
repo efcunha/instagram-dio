@@ -25,7 +25,8 @@ Navegador Web
 # Resultado do projeto:
 
 <p align="center">
-  <img src="https://github.com/efcunha/instagram-dio/blob/main/assets/instagram-efcunha.png" width="300" heigth="300">
+  <img src="https://github.com/efcunha/instagram-dio/blob/main/assets/instagram-efcunha.png" width="600" heigth="600">
 </p>
+
 
 ## 🚀 Let's code! 🚀
