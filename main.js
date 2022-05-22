@@ -1,4 +1,4 @@
-const allImages = document.querySelector('#allImages')
+const allImages = document.querySelector('#insta-all-Images')
 
 let index = 0
 
