@@ -13,6 +13,7 @@ Recriar a interface de login do Instagram com CSS, HTML e JavaScript - utilizand
 
 # Melhorias implementadas
 - Arredondar a foto do perfil
+- Javascript, com imagens dinâmicas como no site do Instagram
 
 ## :seedling: Requisitos Mínimos
 
@@ -21,7 +22,7 @@ Navegador Web
 
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
+* [JavaScript]https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## 🚀 Let's code! 🚀
 
@@ -30,4 +31,3 @@ Navegador Web
 <p align="center">
   <img src="https://github.com/efcunha/instagram-dio/blob/main/assets/instagram-efcunha.png" width="600" heigth="600">
 </p>
-
