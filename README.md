@@ -9,7 +9,7 @@
 Este projeto foi proposto pela Digital Innovation One - Link do código original: https://github.com/SpruceGabriela/instagram-dio
 
 # Descrição
-Recriar a interface de login do Instagram com CSS e HTML - utilizando Flexbox!
+Recriar a interface de login do Instagram com CSS, HTML e JavaScript - utilizando Flexbox!
 
 # Melhorias implementadas
 - Arredondar a foto do perfil
