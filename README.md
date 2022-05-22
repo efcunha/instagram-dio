@@ -1,7 +1,5 @@
 # Oi, tudo bem? 🙃
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
-
 :spiral_calendar: Atualizado em 22 de Maio de 2022 :heart:
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
