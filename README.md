@@ -22,11 +22,12 @@ Navegador Web
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
+
+## 🚀 Let's code! 🚀
+
 # Resultado do projeto:
 
 <p align="center">
   <img src="https://github.com/efcunha/instagram-dio/blob/main/assets/instagram-efcunha.png" width="600" heigth="600">
 </p>
 
-
-## 🚀 Let's code! 🚀
