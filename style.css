@@ -17,7 +17,7 @@
   --border-button: 1px solid transparent;
 }
 
-#app {
+#instagram-wrapper {
   height: 100vh;
   background-color: var(--body-bg);
   display: flex;
@@ -39,7 +39,7 @@ article {
   width: 100%;
 }
 
-#imagesContainer {
+#instagram-phone {
   display: flex;
   align-self: center;
   background-image: url(assets/phone-image.png);
