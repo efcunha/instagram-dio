@@ -31,6 +31,15 @@ Navegador Web
 
 # Resultado do projeto:
 
+
+# Minha pagina de entrada instagram oficial
+
 <p align="center">
   <img src="https://github.com/efcunha/instagram-dio/blob/main/assets/instagram-efcunha.png" width="600" heigth="600">
+</p>
+
+# Clone
+
+<p align="center">
+  <img src="https://github.com/efcunha/instagram-dio/blob/main/assets/instagram-clone.png" width="600" heigth="600">
 </p>
