@@ -1,6 +1,6 @@
 # Oi, tudo bem? 🙃
 
-# Projeto Digital Innovation One HTML
+# Desafio DIO
 # Recriando a página inicial do Instagram
 Este projeto foi proposto pela Digital Innovation One - Link do código original: https://github.com/SpruceGabriela/instagram-dio
 
